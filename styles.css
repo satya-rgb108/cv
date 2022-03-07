@@ -1,6 +1,4 @@
-
-
-        body{
+  body{
           background-color: #E3B7A0;
         }
           h1{
@@ -11,7 +9,7 @@
         }
         hr
           { background-color: #ACB992;
-            border-style: none;
+            border-style:none;
             border-top-style:dotted;
             border-color: white;
             border-width:5px;
@@ -22,4 +20,6 @@
          height:200px;
         }
 
+
+       
   
